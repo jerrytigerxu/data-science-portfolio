@@ -1,14 +1,8 @@
-# data-science-portfolio
-All of the coolest projects you can ever hope to see!
-
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+All of the coolest data science projects you'll ever hope to find! Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
-For a more visually pleasant experience for browsing the portfolio, check out [sajalsharma.com](http://sajalsharma.com)
+For a more visually pleasant experience for browsing the portfolio, check out jerrytigerxu.github.io
 
-#### The R portfolio is located [here](http://rpubs.com/sajal_sharma/).
-
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
 ## Contents
 
