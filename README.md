@@ -25,7 +25,10 @@ For a more visually pleasant experience for browsing the portfolio, check out je
 		- [American Ninja Warrior Project](https://github.com/jerrytigerxu/American-Ninja-Warrior-Project): Analysis of American Ninja Warrior data.
 		
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Folium, Seaborn, and Matplotlib_
+	
+	- __Tableau__
+		- [Oil Price Index Analysis](https://public.tableau.com/profile/jerry.xu1123#!/vizhome/OilPriceIndexes/Dashboard1): Analysis of oil price indexes over their history (West Texas Intermediate and Brent Crude).
 
 	- __R__ 
 		- [Moneyball Project](http://rpubs.com/jtxu2008/moneyball): Exploratory analysis of baseball player data based on the best-selling story by Michael Lewis to find replacement players for the Oakland Athletics in 2002.
