@@ -33,6 +33,7 @@ For a more visually pleasant experience for browsing the portfolio, check out je
 	- __R__ 
 		- [Moneyball Project](http://rpubs.com/jtxu2008/moneyball): Exploratory analysis of baseball player data based on the best-selling story by Michael Lewis to find replacement players for the Oakland Athletics in 2002.
 		- [Corruption & Human Development Visualization](http://rpubs.com/jtxu2008/chdpv): Data visualization of the relationship between corruption and human development in the countries of the world.
+		- [Logistic Regression Project](https://rpubs.com/jtxu2008/504036): Analysis on a dataset to determine if a person has a salary of less than or greater than 50,000 a year.
 	
 
 - ### Micro Projects: 
