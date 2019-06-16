@@ -48,4 +48,5 @@ For a more visually pleasant experience for browsing the portfolio, check out je
 
 	- __R__
 		- [Logistic Regression Project](https://rpubs.com/jtxu2008/504036): Analysis on a dataset to determine if a person has a salary of less than or greater than 50,000 a year.
+		- [Tree Methods Project](https://rpubs.com/jtxu2008/treemethods): Analysis on a dataset to determine if a school is public or private based on their features.
 
