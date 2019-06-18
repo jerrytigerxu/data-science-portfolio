@@ -7,8 +7,7 @@ For a more visually pleasant experience for browsing the portfolio, check out je
 ## Contents
 
 - ### Machine Learning
-	(Put NBA Salary Prediction project here)
-	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Predicting NBA Salaries](https://github.com/jerrytigerxu/NBA-Salary-Prediction): Using data cleaning and machine learning algorithms to determine which factors best predict which NBA players get paid the most.
 	
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib
