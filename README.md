@@ -1,7 +1,7 @@
 # Data Science Portfolio
 All of the coolest data science projects you'll ever hope to find! Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
-For a more visually pleasant experience for browsing the portfolio, check out jerrytigerxu.github.io
+For a more visually pleasant experience for browsing the portfolio, check out [jerrytigerxu.github.io](jerrytigerxu.github.io)
 
 
 ## Contents
