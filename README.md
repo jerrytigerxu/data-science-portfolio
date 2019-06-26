@@ -44,6 +44,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 		- [ML with Decision Trees and Random Forests](https://github.com/jerrytigerxu/Random-Forests-Project): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
 		- [ML with Support Vector Mchines](https://github.com/jerrytigerxu/SVM-Project): Using Support Vector Machines to analyze the famous Iris data set.
 		- [ML with K-means clustering](https://github.com/jerrytigerxu/K-means-clustering): Using K-means clustering to sort through university data.
+		- [Recommender Systems](https://github.com/jerrytigerxu/Recommender-System-Project): Making a basic recommender system for movies.
 		- [Ministry Books Web Scrape](https://github.com/jerrytigerxu/Ministry-Books-Scrape): Using Selenium to scrape ministrybooks.org and automatically download entire life studies and ministry books.
 		
 
