@@ -45,6 +45,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 		- [ML with Support Vector Mchines](https://github.com/jerrytigerxu/SVM-Project): Using Support Vector Machines to analyze the famous Iris data set.
 		- [ML with K-means clustering](https://github.com/jerrytigerxu/K-means-clustering): Using K-means clustering to sort through university data.
 		- [Recommender Systems](https://github.com/jerrytigerxu/Recommender-System-Project): Making a basic recommender system for movies.
+		- [Principal Component Analysis](https://github.com/jerrytigerxu/PCA)
 		- [Ministry Books Web Scrape](https://github.com/jerrytigerxu/Ministry-Books-Scrape): Using Selenium to scrape ministrybooks.org and automatically download entire life studies and ministry books.
 		
 
