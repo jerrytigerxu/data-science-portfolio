@@ -37,6 +37,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 - ### Micro Projects: 
 
 	- __Python__
+		- [Deep Learning with Neural Networks](https://github.com/jerrytigerxu/Deep-Learning): Creating a basic neural network.
 		- [Natural Language Processing](https://github.com/jerrytigerxu/NLP): Using Natural Language Processing to classify Yelp reviews.
 		- [ML with Linear Regression](https://github.com/jerrytigerxu/Linear-Regression-Project-Ecommerce): Using Linear Regression to determine whether an ecommerce company should focus efforts on the website or mobile app.
 		- [ML with Logistic Regression](https://github.com/jerrytigerxu/Logistic-Regression-Project): Using Logistic Regression to predict whether an internet user clicked on a company ad or not.
