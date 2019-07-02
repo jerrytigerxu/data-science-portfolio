@@ -28,7 +28,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 	
 	- __Tableau__
 		- [Oil Price Index Analysis](https://public.tableau.com/profile/jerry.xu1123#!/vizhome/OilPriceIndexes/Dashboard1): Analysis of oil price indexes over their history (West Texas Intermediate and Brent Crude).
-
+		- [NBA Team Salaries](https://public.tableau.com/profile/jerry.xu1123#!/vizhome/NBATeamSalaries_15620270918960/Sheet1?publish=yes): Analysis of the team salaries for NBA teams from the 1990s to now.
 	- __R__ 
 		- [Moneyball Project](http://rpubs.com/jtxu2008/moneyball): Exploratory analysis of baseball player data based on the best-selling story by Michael Lewis to find replacement players for the Oakland Athletics in 2002.
 		- [Corruption & Human Development Visualization](http://rpubs.com/jtxu2008/chdpv): Data visualization of the relationship between corruption and human development in the countries of the world.
