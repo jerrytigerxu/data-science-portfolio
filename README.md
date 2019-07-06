@@ -9,6 +9,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 - ### Machine Learning
 	- [Predicting NBA Salaries](https://github.com/jerrytigerxu/NBA-Salary-Prediction): Using data cleaning and machine learning algorithms to determine which factors best predict which NBA players get paid the most.
 	
+	
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 
@@ -17,6 +18,9 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 	- 
 
 	_Tools: NLTK, scikit_
+	
+- ### Finance Stuff
+	- [Guide to Pair Trading](https://github.com/jerrytigerxu/Pairs-Trading): Intuition and implementation of the pairs trading strategy.
 
 - ### Data Analysis and Visualisation
 	- __Python__
