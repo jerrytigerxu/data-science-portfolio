@@ -12,6 +12,13 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 	
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib
+	
+- ### Deep Learning
+	- [Neural Transfer](https://github.com/jerrytigerxu/Neural-Transfer): Creating cool artwork using neural transfer.
+	
+	
+
+	_Tools: TensorFlow, Keras, scipy
 
 - ### Natural Language Processing
 
