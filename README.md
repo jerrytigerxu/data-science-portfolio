@@ -28,6 +28,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 	
 - ### Finance Stuff
 	- [Guide to Pair Trading](https://github.com/jerrytigerxu/Pairs-Trading): Intuition and implementation of the pairs trading strategy.
+	- [Stock Price Prediction](https://github.com/jerrytigerxu/Stock-Price-Prediction): Using machine learning to attempt to predict the stock market prices
 
 - ### Data Analysis and Visualisation
 	- __Python__
