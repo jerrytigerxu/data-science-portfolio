@@ -22,9 +22,9 @@ For a more visually pleasant experience for browsing the portfolio, check out [j
 
 - ### Natural Language Processing
 
-	- 
+	- [Twitter Sentiment Analysis](https://github.com/jerrytigerxu/Twitter-Sentiment-Analysis): Categorizing offensive tweets using natural language processing.
 
-	_Tools: NLTK, scikit_
+	_Tools: NLTK, scikit_learn
 	
 - ### Finance Stuff
 	- [Guide to Pair Trading](https://github.com/jerrytigerxu/Pairs-Trading): Intuition and implementation of the pairs trading strategy.
