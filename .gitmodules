@@ -1,0 +1,3 @@
+[submodule "Stock_Price_Prediction"]
+	path = Stock_Price_Prediction
+	url = https://github.com/jerrytigerxu/Stock-Price-Prediction.git
